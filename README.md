@@ -6,7 +6,7 @@ Convert `px` to `rem` by using Scss.
 
 Import the `px2rem` file into your project and set the `root font-size`(html font-size) via the `$baseFontSize` variable.
 
-```
+```scss
 $baseFontSize: 10;
 
 // Inputs:
